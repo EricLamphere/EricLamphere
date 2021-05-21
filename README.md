@@ -28,19 +28,19 @@ are supposed to make various aspects of data science, automated
 reporting, and data exploration much easier (ez… get it?). Current state
 looks like this:
 
--   [**ezxfig**]((https://github.com/EricLamphere/ezxfig.git)) - Easily
+-   [**ezxfig**](https://github.com/EricLamphere/ezxfig.git) - Easily
     transform data frames
     -   xfig comes from the word transfigure, meaning “transform into
         something more beautiful or elevated”. Kind of lame but I liked
         it, and ezxfig sort of rolls off the tongue
 -   [**ezexplore**](https://github.com/EricLamphere/ezexplore.git) -
     Easily explore data sets and produce summary statistics
--   [**ezdates**]((https://github.com/EricLamphere/ezdates.git)) -
-    Easily manipulate dates and define date ranges
--   [**ezviz**]((https://github.com/EricLamphere/ezviz.git)) - Easily
+-   [**ezdates**](https://github.com/EricLamphere/ezdates.git) - Easily
+    manipulate dates and define date ranges
+-   [**ezviz**](https://github.com/EricLamphere/ezviz.git) - Easily
     configure `formattable` tables for aesthetically pleasing table
     output
--   [**ezextras**]((https://github.com/EricLamphere/ezextras.git)) -
+-   [**ezextras**](https://github.com/EricLamphere/ezextras.git) -
     Easily… idk but these certainly make coding quicker
 
 ### Shiny Apps
