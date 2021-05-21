@@ -26,7 +26,15 @@ any of the following:
 I don’t have a ton in here currently, but the future is bright for this
 repo. Here’s a quick overview of the projects I’m working on.
 
-### ezverse <a href='https://https://github.com/EricLamphere'><img src='images/hex_sticker_ezverse.png' align="right" height="139" /></a>
+### ezverse <a href='https://https://github.com/EricLamphere/ezverse'><img src='images/hex_sticker_ezverse.png' align="right" height="139" /></a>
+
+<!-- badges: start -->
+
+[![Lifecycle:
+experimental](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://lifecycle.r-lib.org/articles/stages.html#experimental)
+[![CRAN
+status](https://www.r-pkg.org/badges/version/ezverse)](https://CRAN.R-project.org/package=ezverse)
+<!-- badges: end -->
 
 I’m working on a collection of packages (all prefixed with ‘ez’) that
 are supposed to make various aspects of data science, automated
