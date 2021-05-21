@@ -56,13 +56,26 @@ looks like this:
 -   [**ezextras**](https://github.com/EricLamphere/ezextras.git) -
     Easily… idk but these certainly make coding quicker
 
-### Shiny Apps
+### Shiny Apps <a href='https://github.com/rstudio/shiny'><img src='images/hex_sticker_rshiny.png' align="right" height="139" /></a>
+
+-   Note: These are the RStudio Shiny badges & logo, not mine.
+
+<!-- badges: start -->
+
+[![CRAN](https://www.r-pkg.org/badges/version/shiny)](https://CRAN.R-project.org/package=shiny)
+[![R build
+status](https://github.com/rstudio/shiny/workflows/R-CMD-check/badge.svg)](https://github.com/rstudio/shiny/actions)
+[![RStudio
+community](https://img.shields.io/badge/community-shiny-blue?style=social&logo=rstudio&logoColor=75AADB)](https://community.rstudio.com/new-topic?category=shiny&tags=shiny)
+<!-- badges: end -->
 
 I haven’t really done anything with this yet, but I’m planning on
 creating multilple shiny apps, one of which visualizes and summarizes
 data out of the census API
 
 ### Lamps
+
+(need a good hex sticker for this.. and some badges)
 
 This repo is just for random projects and analyses that I work on.
 There’s nothing in there currently except for some code that I
