@@ -1,9 +1,9 @@
 
 # Welcome 👋
 
-Hayo, welcome to my GitHub 🐙! Here you’ll find a myriad of random things
-I’m working on, so feel free to sleuth 🕵 around. **Before you move on**,
-here’s one very important thing you should know first…
+Hayo, welcome to my GitHub 🐙 ! Here you’ll find a myriad of random
+things I’m working on, so feel free to sleuth 🕵 around. **Before you
+move on**, here’s one very important thing you should know first…
 
 ![](images/i_understand_nothing.gif) <!--
 ![](https://media.giphy.com/media/SAAMcPRfQpgyI/giphy.gif)
@@ -13,8 +13,13 @@ That said, if you have any questions, want to use some of my code, or
 find a problem, feel free to submit an issue in GitHub or hit me up at
 any of the following:
 
--   [LinkedIn](https://www.linkedin.com/in/ericjlamphere/)
--   [Email](ericjlamphere@gmail.com)
+-   [LinkedIn](https://www.linkedin.com/in/ericjlamphere/) - I’m
+    relatively active on linkedIn, so if we work together on something,
+    let’s connect
+-   [Email](ericjlamphere@gmail.com) - Most likely to get a response
+-   [Twitter](https://twitter.com/ericlamphere) - I don’t really use
+    this a ton, but you can send me cool things or questions here and
+    I’ll see them eventually
 
 # Projects 🤖
 
