@@ -26,7 +26,7 @@ any of the following:
 I don’t have a ton in here currently, but the future is bright for this
 repo. Here’s a quick overview of the projects I’m working on.
 
-### ezverse
+### ezverse <a href='https://https://github.com/EricLamphere'><img src='images/hex_sticker_ezverse.png' align="right" height="139" /></a>
 
 I’m working on a collection of packages (all prefixed with ‘ez’) that
 are supposed to make various aspects of data science, automated
@@ -35,9 +35,9 @@ looks like this:
 
 -   [**ezxfig**](https://github.com/EricLamphere/ezxfig.git) - Easily
     transform data frames
-    -   xfig comes from the word transfigure, meaning “transform into
-        something more beautiful or elevated”. Kind of lame but I liked
-        it, and ezxfig sort of rolls off the tongue
+    -   “xfig” comes from the word “transfigure”, meaning “transform
+        into something more beautiful or elevated”. Kind of lame but I
+        liked it, and ezxfig sort of rolls off the tongue
 -   [**ezexplore**](https://github.com/EricLamphere/ezexplore.git) -
     Easily explore data sets and produce summary statistics
 -   [**ezdates**](https://github.com/EricLamphere/ezdates.git) - Easily
