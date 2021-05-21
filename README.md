@@ -4,6 +4,7 @@
 Hayo, welcome to my GitHub 🐙! Here you’ll find a myriad of random things
 I’m working on, so feel free to sleuth 🕵 around. **Before you move on**,
 here’s one very important thing you should know first…
+
 ![giphy](https://media.giphy.com/media/SAAMcPRfQpgyI/giphy.gif)
 
 That said, if you have any questions, want to use some of my code, or
