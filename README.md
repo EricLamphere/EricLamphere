@@ -23,8 +23,8 @@ any of the following:
 
 # Projects 🤖
 
-I don’t have a ton in here currently, but the future is bright for this
-repo. Here’s a quick overview of the projects I’m working on.
+I don’t have a ton in here currently, but the future is bright for these
+repos. Here’s a quick overview of the projects I’m working on.
 
 ### ezverse <a href='https://github.com/EricLamphere/ezverse'><img src='images/hex_sticker_ezverse.png' align="right" height="139" /></a>
 

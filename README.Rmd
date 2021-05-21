@@ -29,7 +29,7 @@ That said, if you have any questions, want to use some of my code, or find a pro
 
 # Projects 🤖
 
-I don't have a ton in here currently, but the future is bright for this repo. Here's a quick overview of the projects I'm working on.
+I don't have a ton in here currently, but the future is bright for these repos. Here's a quick overview of the projects I'm working on.
 
 ### ezverse <a href='https://github.com/EricLamphere/ezverse'><img src='images/hex_sticker_ezverse.png' align="right" height="139" /></a>
 
