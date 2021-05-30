@@ -56,6 +56,13 @@ looks like this:
 -   [**ezextras**](https://github.com/EricLamphere/ezextras.git) -
     Easily… idk but these certainly make coding quicker
 
+Similar to the `tidyverse`, you can install and load all of the
+`ezverse` packages with:
+
+``` r
+remotes::install_github("EricLamphere/ezverse")
+```
+
 ### Shiny Apps <a href='https://github.com/rstudio/shiny'><img src='images/hex_sticker_rshiny.png' align="right" height="139" /></a>
 
 -   Note: These are the RStudio Shiny badges & logo, not mine.
