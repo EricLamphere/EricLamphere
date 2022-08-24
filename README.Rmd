@@ -24,7 +24,7 @@ Hayo, welcome to my GitHub 🐙 ! Here you'll find a myriad of random things I'm
 That said, if you have any questions, want to collaborate on a project, or find an issue with my code, feel free to submit an issue in GitHub or hit me up at any of the following:
 
 * [LinkedIn](https://www.linkedin.com/in/ericjlamphere/) - I'm relatively active on linkedIn, so if we work together on something, let's connect
-* [Email](ericjlamphere@gmail.com) - Most likely to get a response
+* [Email](mailto:ericjlamphere@gmail.com) - Most likely to get a response
 * [Twitter](https://twitter.com/ericlamphere) - I don't really use it a ton, but you can send me cool things or questions here and I'll see them eventually
 
 # Projects 🤖
@@ -55,7 +55,7 @@ remotes::install_github("EricLamphere/ezverse")
 ```
 
 
-### Apps <a href='https://github.com/rstudio/shiny'><img src='images/app-store-logo-transparent.png' align="right" height="139" /></a>
+### Apps <a href='https://github.com/rstudio/shiny'><img src='images/app-store-logo-transparent.svg' align="right" height="139" /></a>
 
 
 I haven't gone too far with this yet, but here are the shells of a couple apps I have in mind:
