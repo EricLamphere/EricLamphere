@@ -40,7 +40,7 @@ status](https://www.r-pkg.org/badges/version/ezverse)](https://CRAN.R-project.or
 
 I’m working on a collection of packages (all prefixed with ‘ez’) that
 are supposed to make various aspects of data science and analytics
-engineering much <sub>ez</sub>easier. Current state looks like this:
+engineering much ~~ez~~easier. Current state looks like this:
 
 - [**ezxfig**](https://github.com/EricLamphere/ezxfig.git) - Easily
   transform data frames
@@ -48,12 +48,13 @@ engineering much <sub>ez</sub>easier. Current state looks like this:
     something more beautiful or elevated”. Kind of lame but I liked it
 - [**ezexplore**](https://github.com/EricLamphere/ezexplore.git) -
   Easily explore data sets and produce summary statistics
-- [**ezdates**](https://github.com/EricLamphere/ezdates.git) - Easily
-  manipulate dates and define date ranges
 - [**ezviz**](https://github.com/EricLamphere/ezviz.git) - Easily
   configure `formattable` tables for aesthetically pleasing table output
-- [**ezextras**](https://github.com/EricLamphere/ezextras.git) - Easily…
-  idk but these certainly make for quicker development times
+- [**ezextras**](https://github.com/EricLamphere/ezextras.git) -
+  Intuitive, easy to use helper functions to make for faster development
+  and more readable code
+- [**ezverse**](https://github.com/EricLamphere/ezextras.git) - Easily
+  install and load all of the `ezverse` packages
 
 Similar to the `tidyverse`, you can install and load all of the
 `ezverse` packages with:
