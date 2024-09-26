@@ -65,7 +65,20 @@ remotes::install_github("EricLamphere/ezverse")
 
 ### Apps <a href='https://github.com/rstudio/shiny'><img src='images/app-store-logo-transparent.svg' align="right" height="139" /></a>
 
-I haven’t gone too far with this yet, but here are the shells of a
+There are some apps I started thinking about and never finished, and
+others that received a little more love. I don’t have a “Completed”
+section below, because I’m constantly going back and updating small
+things here and there.
+
+#### In Progress
+
+- 🏖️ [**survivor**](https://github.com/EricLamphere/survivor.git) - R
+  Shiny app for keeping track of the survivor pool that I set up with my
+  family and friends
+
+#### Future Ideas
+
+I haven’t gone too far with these yet, but here are the shells of a
 couple apps I have in mind:
 
 - 🏘️

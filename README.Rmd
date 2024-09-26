@@ -54,11 +54,15 @@ Similar to the `tidyverse`, you can install and load all of the `ezverse` packag
 remotes::install_github("EricLamphere/ezverse")
 ```
 
-
 ### Apps <a href='https://github.com/rstudio/shiny'><img src='images/app-store-logo-transparent.svg' align="right" height="139" /></a>
+There are some apps I started thinking about and never finished, and others that received a little more love. I don't
+have a "Completed" section below, because I'm constantly going back and updating small things here and there.
 
+#### In Progress
+* 🏖️ [**survivor**](https://github.com/EricLamphere/survivor.git) - R Shiny app for keeping track of the survivor pool that I set up with my family and friends
 
-I haven't gone too far with this yet, but here are the shells of a couple apps I have in mind:
+#### Future Ideas
+I haven't gone too far with these yet, but here are the shells of a couple apps I have in mind:
 
 * 🏘️ [**whats-the-census**](https://github.com/EricLamphere/whats-the-census.git) - R Shiny app that summarises and visualizes data from the census API
 * ⚽ [**better-bets**](https://github.com/EricLamphere/better-bets.git) - An app for providing predictive analytics (via. the [Football Prediction API](https://rapidapi.com/boggio-analytics/api/football-prediction/) from [RapidAPI](https://rapidapi.com/hub)) for upcoming soccer games with the end goal of a more profitable and consistent betting system. Here's my vision for the stack:
