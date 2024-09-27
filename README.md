@@ -63,6 +63,19 @@ Similar to the `tidyverse`, you can install and load all of the
 remotes::install_github("EricLamphere/ezverse")
 ```
 
+### Data Pipelines
+
+- 🍋
+  [**clickhouse-db**](https://github.com/EricLamphere/clickhouse-db.git) -
+  ClickHouse database that could be used as the database for future
+  projects. I don’t have any experience with ClickHouse or Airflow, so I
+  wanted to see if I could get those things working together in a docker
+  container.
+  - Database: ClickHouse
+  - Orchestration: Airflow
+  - ETL & ELT: dbt
+  - Packaging: Docker
+
 ### Apps <a href='https://github.com/rstudio/shiny'><img src='images/app-store-logo-transparent.svg' align="right" height="139" /></a>
 
 There are some apps I started thinking about and never finished, and
