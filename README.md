@@ -78,9 +78,7 @@ remotes::install_github("EricLamphere/ezverse")
 ### Apps <a href='https://github.com/rstudio/shiny'><img src='images/app-store-logo-transparent.svg' align="right" height="139" /></a>
 
 There are some apps I started thinking about and never finished, and
-others that received a little more love. I don’t have a “Completed”
-section below, because I’m constantly going back and updating small
-things here and there.
+others that received a little more love. 
 
 #### Actually Functional
 
