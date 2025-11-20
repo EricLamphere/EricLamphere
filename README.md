@@ -24,8 +24,7 @@ hit me up at any of the following:
 
 # Projects 🤖
 
-I don’t have a ton in here currently, but the future is bright for these
-projects. Here’s a quick overview of the projects I’m working on.
+Random things I've worked on over the years.
 
 ### ezverse <a href='https://github.com/EricLamphere/ezverse'><img src='images/hex_sticker_ezverse.png' align="right" height="139" /></a>
 
@@ -38,7 +37,7 @@ maturing](https://img.shields.io/badge/lifecycle-maturing-blue.svg)](https://lif
 status](https://www.r-pkg.org/badges/version/ezverse)](https://CRAN.R-project.org/package=ezverse)
 <!-- badges: end -->
 
-I’m working on a collection of packages (all prefixed with ‘ez’) that
+A collection of packages (all prefixed with ‘ez’) that
 are supposed to make various aspects of data science and analytics
 engineering much ~~ez~~easier. Current state looks like this:
 
@@ -83,7 +82,7 @@ others that received a little more love. I don’t have a “Completed”
 section below, because I’m constantly going back and updating small
 things here and there.
 
-#### In Progress
+#### Actually Functional
 
 - 🏖️ [**survivor**](https://github.com/EricLamphere/survivor.git) - R
   Shiny app for keeping track of the survivor pool that I set up with my
@@ -91,12 +90,9 @@ things here and there.
 
 #### Future Ideas
 
-I haven’t gone too far with these yet, but here are the shells of a
+I haven’t gone too far with these yet, and I maybe never will, but here are the shells of a
 couple apps I have in mind:
 
-- 🏘️
-  [**whats-the-census**](https://github.com/EricLamphere/whats-the-census.git) -
-  R Shiny app that summarises and visualizes data from the census API
 - ⚽
   [**better-bets**](https://github.com/EricLamphere/better-bets.git) -
   An app for providing predictive analytics (via. the [Football
@@ -109,3 +105,7 @@ couple apps I have in mind:
   - Web framework: Flask
   - API: GraphQL (Graphene)
   - Database: MongoDB (mongomock)
+
+- 🏘️
+  [**whats-the-census**](https://github.com/EricLamphere/whats-the-census.git) -
+  R Shiny app that summarises and visualizes data from the census API
