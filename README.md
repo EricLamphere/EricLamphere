@@ -62,7 +62,9 @@ Similar to the `tidyverse`, you can install and load all of the
 remotes::install_github("EricLamphere/ezverse")
 ```
 
-### Data Pipelines
+### Central Database
+
+The big idea: Set up my own server on a Raspberry Pi that I can use as a central database for all of my future projects. I've started a project with clickhouse but I haven't landed on that as my platform of choice yet. 
 
 - 🍋
   [**clickhouse-db**](https://github.com/EricLamphere/clickhouse-db.git) -
@@ -77,16 +79,13 @@ remotes::install_github("EricLamphere/ezverse")
 
 ### Apps <a href='https://github.com/rstudio/shiny'><img src='images/app-store-logo-transparent.svg' align="right" height="139" /></a>
 
-There are some apps I started thinking about and never finished, and
-others that received a little more love. 
-
 #### Actually Functional
 
 - 🏖️ [**survivor**](https://github.com/EricLamphere/survivor.git) - R
   Shiny app for keeping track of the survivor pool that I set up with my
   family and friends
 
-#### Future Ideas
+#### Ideas
 
 I haven’t gone too far with these yet, and I maybe never will, but here are the shells of a
 couple apps I have in mind:
@@ -103,7 +102,6 @@ couple apps I have in mind:
   - Web framework: Flask
   - API: GraphQL (Graphene)
   - Database: MongoDB (mongomock)
-
 - 🏘️
   [**whats-the-census**](https://github.com/EricLamphere/whats-the-census.git) -
   R Shiny app that summarises and visualizes data from the census API
