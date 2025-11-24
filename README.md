@@ -24,7 +24,10 @@ hit me up at any of the following:
 
 # Projects 🤖
 
-Random things I've worked on over the years.
+Random things I've worked on over the years. 
+
+> [!NOTE]
+> Recently (along with every other programmer in the world..) I've been using AI to help me write code. Claude Code is my goto so you'll see some `CLAUDE.md` and `.claude/*` files in the repos where I use it. That said, I make a point to read and understand all of the code that AI generates for me. Otherwiswe, what's the point?
 
 ### ezverse <a href='https://github.com/EricLamphere/ezverse'><img src='images/hex_sticker_ezverse.png' align="right" height="139" /></a>
 
