@@ -44,19 +44,13 @@ A collection of packages (all prefixed with ‘ez’) that
 are supposed to make various aspects of data science and analytics
 engineering much ~~ez~~easier. Current state looks like this:
 
-- [**ezxfig**](https://github.com/EricLamphere/ezxfig.git) - Easily
-  transform data frames
+- [**ezverse**](https://github.com/EricLamphere/ezverse.git) - Easily install and load all of the `ezverse` packages
+- [**ezxfig**](https://github.com/EricLamphere/ezxfig.git) - Easily transform data frames
   - “xfig” comes from the word “transfigure”, meaning “transform into
     something more beautiful or elevated”. Kind of lame but I liked it
-- [**ezexplore**](https://github.com/EricLamphere/ezexplore.git) -
-  Easily explore data sets and produce summary statistics
-- [**ezviz**](https://github.com/EricLamphere/ezviz.git) - Easily
-  configure `formattable` tables for aesthetically pleasing table output
-- [**ezextras**](https://github.com/EricLamphere/ezextras.git) -
-  Intuitive, easy to use helper functions to make for faster development
-  and more readable code
-- [**ezverse**](https://github.com/EricLamphere/ezextras.git) - Easily
-  install and load all of the `ezverse` packages
+- [**ezexplore**](https://github.com/EricLamphere/ezexplore.git) - Easily explore data sets and produce summary statistics
+- [**ezviz**](https://github.com/EricLamphere/ezviz.git) - Easily configure `formattable` tables for aesthetically pleasing table output
+- [**ezextras**](https://github.com/EricLamphere/ezextras.git) - Intuitive, easy to use helper functions to make for faster development and more readable code
 
 Similar to the `tidyverse`, you can install and load all of the
 `ezverse` packages with:
@@ -65,7 +59,7 @@ Similar to the `tidyverse`, you can install and load all of the
 remotes::install_github("EricLamphere/ezverse")
 ```
 
-### Central Database
+### Database Server
 
 The big idea: Set up my own server on a Raspberry Pi that I can use as a central database for all of my future projects. I've started a project with clickhouse but I haven't landed on that as my platform of choice yet. 
 
