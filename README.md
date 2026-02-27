@@ -1,8 +1,7 @@
 
 # Welcome 👋
 
-Hayo, welcome to my GitHub 🐙 ! Here you’ll find a myriad of random
-things I’m working on. **Before you move on**, there’s one important
+Welcome 🐙 ! Thanks for checking me out. **Before you move on**, there’s one important
 thing you should know…
 
 ![](images/i_understand_nothing.gif) <!--
@@ -27,7 +26,7 @@ hit me up at any of the following:
 Random things I've worked on over the years. 
 
 > [!NOTE]
-> Recently (along with every other programmer in the world..) I've been using AI to help me write code. Claude Code is my goto so you'll see some `CLAUDE.md` and `.claude/*` files in the repos where I use it. That said, I make a point to read and understand all of the code that AI generates for me. Otherwiswe, what's the point?
+> Recently i've been using AI to help me write code. Claude Code is my goto so you'll see some `CLAUDE.md` and `.claude/*` files in the repos where I use it. AI code assistants are massively useful tools that I think everyone should use. That said, there are lazy ways to use it that feels like cheating and more involved ways to use it that feels like learning, so I try to do the latter.
 
 ### ezverse <a href='https://github.com/EricLamphere/ezverse'><img src='images/hex_sticker_ezverse.png' align="right" height="139" /></a>
 
@@ -76,29 +75,8 @@ The big idea: Set up my own server on a Raspberry Pi that I can use as a central
 
 ### Apps <a href='https://github.com/rstudio/shiny'><img src='images/app-store-logo-transparent.svg' align="right" height="139" /></a>
 
-#### Actually Functional
-
 - 🏖️ [**survivor**](https://github.com/EricLamphere/survivor.git) - R
   Shiny app for keeping track of the survivor pool that I set up with my
-  family and friends
+  family and friends. You can use it too if you clone the repo and point
+  to your own google sheet.
 
-#### Ideas
-
-I haven’t gone too far with these yet, and I maybe never will, but here are the shells of a
-couple apps I have in mind:
-
-- ⚽
-  [**better-bets**](https://github.com/EricLamphere/better-bets.git) -
-  An app for providing predictive analytics (via. the [Football
-  Prediction
-  API](https://rapidapi.com/boggio-analytics/api/football-prediction/)
-  from [RapidAPI](https://rapidapi.com/hub)) for upcoming soccer games
-  with the end goal of a more profitable and consistent betting system.
-  Here’s my vision for the stack:
-  - Front-end: React
-  - Web framework: Flask
-  - API: GraphQL (Graphene)
-  - Database: MongoDB (mongomock)
-- 🏘️
-  [**whats-the-census**](https://github.com/EricLamphere/whats-the-census.git) -
-  R Shiny app that summarises and visualizes data from the census API
