@@ -26,7 +26,7 @@ hit me up at any of the following:
 Random things I've worked on over the years. 
 
 > [!NOTE]
-> Recently i've been using AI to help me write code. Claude Code is my goto so you'll see some `CLAUDE.md` and `.claude/*` files in the repos where I use it. AI code assistants are massively useful tools that I think everyone should use. That said, there are lazy ways to use it that feels like cheating and more involved ways to use it that feels like learning, so I try to do the latter.
+> Recently i've been using AI to help me write code. Claude Code is my goto so you'll see some `CLAUDE.md` and `.claude/*` files in the repos where I use it. AI code assistants are massively useful tools that I think everyone should use. That said, there are lazy ways to use it that feel like cheating and more involved ways to use it that feel like learning, so I try to do the latter.
 
 ### ezverse <a href='https://github.com/EricLamphere/ezverse'><img src='images/hex_sticker_ezverse.png' align="right" height="139" /></a>
 
