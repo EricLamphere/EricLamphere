@@ -12,21 +12,12 @@ That said, if you have any questions, want to collaborate on a project,
 or find an issue with my code, feel free to submit an issue in GitHub or
 hit me up at any of the following:
 
-- [LinkedIn](https://www.linkedin.com/in/ericjlamphere/) - I’m
-  relatively active on linkedIn, so if we work together on something,
-  let’s connect
-- [Email](mailto:ericjlamphere@gmail.com) - Most likely to get a
-  response
-- [Twitter](https://twitter.com/ericlamphere) - I don’t really use it a
-  ton, but you can send me cool things or questions here and I’ll see
-  them eventually
+- [LinkedIn](https://www.linkedin.com/in/ericjlamphere/) - I’m relatively active on linkedIn
+- [Email](mailto:ericjlamphere@gmail.com) - Most likely to get a response
 
 # Projects 🤖
 
 Random things I've worked on over the years. 
-
-> [!NOTE]
-> Recently i've been using AI to help me write code. Claude Code is my goto so you'll see some `CLAUDE.md` and `.claude/*` files in the repos where I use it. AI code assistants are massively useful tools that I think everyone should use. That said, there are lazy ways to use it that feel like cheating and more involved ways to use it that feel like learning, so I try to do the latter.
 
 ### ezverse <a href='https://github.com/EricLamphere/ezverse'><img src='images/hex_sticker_ezverse.png' align="right" height="139" /></a>
 
@@ -79,4 +70,4 @@ The big idea: Set up my own server on a Raspberry Pi that I can use as a central
   Shiny app for keeping track of the survivor pool that I set up with my
   family and friends. You can use it too if you clone the repo and point
   to your own google sheet.
-
+- 🏡[house-shopping](https://github.com/EricLamphere/house-shopping.git) - App built with Claude to help me organize and save all of the houses I'm considering buying. It's meant to be run locally and stores it's memory in the `memory/` dir within the repo. Clone it and run `task start` to try it yourself.
