@@ -17,7 +17,7 @@ hit me up at any of the following:
 
 # Projects 🤖
 
-Random things I've worked on over the years. 
+This doesn't cover all of my repos, just a handful of some of the slightly more polished projects
 
 ### ezverse <a href='https://github.com/EricLamphere/ezverse'><img src='images/hex_sticker_ezverse.png' align="right" height="139" /></a>
 
