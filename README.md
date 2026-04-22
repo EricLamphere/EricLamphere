@@ -19,8 +19,7 @@ This doesn't cover all of my repos, just a handful of some of the slightly more 
 [![Lifecycle:
 maturing](https://img.shields.io/badge/lifecycle-maturing-blue.svg)](https://lifecycle.r-lib.org/articles/stages.html#maturing)
 [![R-CMD-check](https://github.com/EricLamphere/ezverse/actions/workflows/check-release.yaml/badge.svg)](https://github.com/EricLamphere/ezverse/actions/workflows/check-release.yaml)
-[![CRAN
-status](https://www.r-pkg.org/badges/version/ezverse)](https://CRAN.R-project.org/package=ezverse)
+![CRAN Status](https://img.shields.io/badge/CRAN-not%20published-red.svg)
 <!-- badges: end -->
 
 A collection of packages (all prefixed with ‘ez’) that
