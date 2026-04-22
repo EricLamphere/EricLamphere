@@ -71,3 +71,4 @@ The big idea: Set up my own server on a Raspberry Pi that I can use as a central
   family and friends. You can use it too if you clone the repo and point
   to your own google sheet.
 - 🏡[**house-shopping**](https://github.com/EricLamphere/house-shopping.git) - App built with Claude to help me organize and save all of the houses I'm considering buying. It's meant to be run locally and stores it's memory in the `memory/` dir within the repo. Clone it and run `task start` to try it yourself.
+- 🛠️[**dbt-ui**](https://github.com/EricLamphere/dbt-ui.git) - A local web UI for managing, running, and exploring dbt projects.
