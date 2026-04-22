@@ -8,13 +8,6 @@ thing you should know…
 ![](https://media.giphy.com/media/SAAMcPRfQpgyI/giphy.gif)
 -->
 
-That said, if you have any questions, want to collaborate on a project,
-or find an issue with my code, feel free to submit an issue in GitHub or
-hit me up at any of the following:
-
-- [LinkedIn](https://www.linkedin.com/in/ericjlamphere/) - I’m relatively active on linkedIn
-- [Email](mailto:ericjlamphere@gmail.com) - Most likely to get a response
-
 # Projects 🤖
 
 This doesn't cover all of my repos, just a handful of some of the slightly more polished projects
@@ -53,12 +46,7 @@ remotes::install_github("EricLamphere/ezverse")
 
 The big idea: Set up my own server on a Raspberry Pi that I can use as a central database for all of my future projects. I've started a project with clickhouse but I haven't landed on that as my platform of choice yet. 
 
-- 🍋
-  [**clickhouse-db**](https://github.com/EricLamphere/clickhouse-db.git) -
-  ClickHouse database that could be used as the database for future
-  projects. I don’t have any experience with ClickHouse or Airflow, so I
-  wanted to see if I could get those things working together in a docker
-  container.
+- 🍋 [**clickhouse-db**](https://github.com/EricLamphere/clickhouse-db.git) - ClickHouse database that could be used as the database for future projects. I don’t have any experience with ClickHouse or Airflow, so I wanted to see if I could get those things working together in a docker container.
   - Database: ClickHouse
   - Orchestration: Airflow
   - ETL & ELT: dbt
@@ -70,5 +58,5 @@ The big idea: Set up my own server on a Raspberry Pi that I can use as a central
   Shiny app for keeping track of the survivor pool that I set up with my
   family and friends. You can use it too if you clone the repo and point
   to your own google sheet.
-- 🏡[**house-shopping**](https://github.com/EricLamphere/house-shopping.git) - App built with Claude to help me organize and save all of the houses I'm considering buying. It's meant to be run locally and stores it's memory in the `memory/` dir within the repo. Clone it and run `task start` to try it yourself.
-- 🛠️[**dbt-ui**](https://github.com/EricLamphere/dbt-ui.git) - A local web UI for managing, running, and exploring dbt projects.
+- 🏡 [**house-shopping**](https://github.com/EricLamphere/house-shopping.git) - App built with Claude to help me organize and save all of the houses I'm considering buying. It's meant to be run locally and stores it's memory in the `memory/` dir within the repo. Clone it and run `task start` to try it yourself.
+- 🛠️ [**dbt-ui**](https://github.com/EricLamphere/dbt-ui.git) - A local web UI for managing, running, and exploring dbt projects.
