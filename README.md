@@ -1,7 +1,7 @@
 
 # Welcome 👋
 
-Welcome 🐙 ! Thanks for checking me out. **Before you move on**, there’s one important
+Welcome 🐙 ! **Before you move on**, there’s one important
 thing you should know…
 
 ![](images/i_understand_nothing.gif) <!--
